@@ -396,7 +396,7 @@ function createBot() {
 
   console.log(`[Bot] [+] Successfully spawned on server!`);
 
-  // 🔐 FORCE LOGIN SYSTEM (Perzaan Edition)
+  // ðŸ” FORCE LOGIN SYSTEM (Perzaan Edition)
 
       bot.on('messagestr', (msg) => {
   const message = msg.toLowerCase();
